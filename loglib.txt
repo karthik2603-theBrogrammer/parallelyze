@@ -1,0 +1,266 @@
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.147.51', 51093) has been established.
+RECEIVED DATA:  [0.09017053] -0.08464267350362419
+Training Time:  216.15028381347656
+Connection from ('10.14.146.128', 52193) has been established.
+RECEIVED DATA:  [0.09663101] -0.07695587982191568
+Training Time:  309.7965717315674
+Connection from ('10.14.146.73', 40822) has been established.
+RECEIVED DATA:  [0.10352241] -0.08698604745042063
+Training Time:  96.77433967590332
+Mean absolute error on test set: 0.08746694633414338
+Mean squared error on test set: 0.012500302261929363
+{'total_time': 622.7211952209473, 'weights': array([0.09387141]), 'bias': array([-0.08037569]), 'total_clients': 3, 'total_weights': array([0.29032394]), 'total_bias': array([-0.2485846]), 'avgtime': 207.57373174031576}
+Enter Your CGPA: 
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.147.51', 51119) has been established.
+RECEIVED DATA:  [0.09017053] -0.08464267350362419
+Training Time:  231.7488193511963
+Connection from ('10.14.146.128', 52213) has been established.
+RECEIVED DATA:  [0.09663101] -0.07695587982191568
+Training Time:  328.33361625671387
+Connection from ('10.14.146.142', 44036) has been established.
+RECEIVED DATA:  [0.10352241] -0.08698604745042063
+Training Time:  159.41858291625977
+Mean absolute error on test set: 0.08746694633414338
+Mean squared error on test set: 0.012500302261929363
+{'total_time': 719.5010185241699, 'weights': array([0.09387141]), 'bias': array([-0.08037569]), 'total_clients': 3, 'total_weights': array([0.29032394]), 'total_bias': array([-0.2485846]), 'avgtime': 239.83367284138998}
+---------------------------
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.146.128', 52222) has been established.
+Connection from ('10.14.146.73', 40830) has been established.
+RECEIVED DATA:  [0.09017053] -0.08464267350362419
+Training Time:  253.39126586914062
+Connection from ('10.14.146.142', 44040) has been established.
+RECEIVED DATA:  [0.10352241] -0.08698604745042063
+Training Time:  140.52844047546387
+Mean absolute error on test set: 0.0875041359007467
+Mean squared error on test set: 0.012451109981869874
+{'total_time': 393.9197063446045, 'weights': array([0.09394107]), 'bias': array([-0.08323993]), 'total_clients': 2, 'total_weights': array([0.19369293]), 'total_bias': array([-0.17162872]), 'avgtime': 196.95985317230225}
+---------------------------
+
+
+
+
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.146.142', 44044) has been established.
+Connection from ('10.14.146.73', 40832) has been established.
+RECEIVED DATA:  [0.09663101] -0.07695587982191568
+Training Time:  94.36202049255371
+RECEIVED DATA:  [0.09017053] -0.08464267350362419
+Training Time:  146.75378799438477
+Connection from ('10.14.146.128', 52226) has been established.
+RECEIVED DATA:  [0.10352241] -0.08698604745042063
+Training Time:  273.79751205444336
+Mean absolute error on test set: 0.08746694633414338
+Mean squared error on test set: 0.012500302261929363
+{'total_time': 514.9133205413818, 'weights': array([0.09387141]), 'bias': array([-0.08037569]), 'total_clients': 3, 'total_weights': array([0.29032394]), 'total_bias': array([-0.2485846]), 'avgtime': 171.63777351379395}
+---------------------------
+
+
+5 Devices wo mac
+
+
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.147.51', 51208) has been established.
+RECEIVED DATA:  [0.08922326] -0.037030632217339224
+Training Time:  162.7516746520996
+Connection from ('10.14.146.80', 61991) has been established.
+Connection from ('10.14.146.128', 52229) has been established.
+Connection from ('10.14.146.142', 44050) has been established.
+RECEIVED DATA:  [0.09228264] -0.040859256892731205
+Training Time:  98.36959838867188
+RECEIVED DATA:  [0.08498769] -0.04862189961334757
+Training Time:  192.60621070861816
+Connection from ('10.14.146.73', 40838) has been established.
+RECEIVED DATA:  [0.09664096] -0.0588291845554073
+Training Time:  63.565969467163086
+RECEIVED DATA:  [0.09503846] -0.054016287122942
+Training Time:  1999.9995231628418
+Mean absolute error on test set: 0.09059725185701954
+Mean squared error on test set: 0.012934885180136454
+{'total_time': 2517.2929763793945, 'weights': array([0.08888556]), 'bias': array([-0.04643531]), 'total_clients': 5, 'total_weights': array([0.45817301]), 'total_bias': array([-0.23935726]), 'avgtime': 503.4585952758789}
+---------------------------
+
+
+
+with mac
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.147.51', 51221) has been established.
+RECEIVED DATA:  [0.08922326] -0.037030632217339224
+Training Time:  184.861421585083
+Connection from ('10.14.146.73', 40840) has been established.
+RECEIVED DATA:  [0.09503846] -0.054016287122942
+Training Time:  66.31731986999512
+Connection from ('10.14.146.128', 52247) has been established.
+RECEIVED DATA:  [0.08498769] -0.04862189961334757
+Training Time:  158.0972671508789
+Connection from ('10.14.146.142', 44056) has been established.
+RECEIVED DATA:  [0.09228264] -0.040859256892731205
+Training Time:  109.43913459777832
+Connection from ('10.14.146.28', 64064) has been established.
+RECEIVED DATA:  [0.09664096] -0.0588291845554073
+Training Time:  26.190996170043945
+Mean absolute error on test set: 0.09059725185701958
+Mean squared error on test set: 0.012934885180136458
+{'total_time': 544.9061393737793, 'weights': array([0.08888556]), 'bias': array([-0.04643531]), 'total_clients': 5, 'total_weights': array([0.45817301]), 'total_bias': array([-0.23935726]), 'avgtime': 108.98122787475586}
+---------------------------
+
+
+
+
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.146.128', 52250) has been established.
+RECEIVED DATA:  [0.08922326] -0.037030632217339224
+Training Time:  209.46979522705078
+Connection from ('10.14.147.51', 51241) has been established.
+RECEIVED DATA:  [0.09503846] -0.054016287122942
+Training Time:  157.13763236999512
+Connection from ('10.14.146.73', 40842) has been established.
+RECEIVED DATA:  [0.08498769] -0.04862189961334757
+Training Time:  65.10734558105469
+Connection from ('10.14.146.142', 44074) has been established.
+RECEIVED DATA:  [0.09228264] -0.040859256892731205
+Training Time:  96.92049026489258
+Connection from ('10.14.146.73', 40844) has been established.
+RECEIVED DATA:  [0.09664096] -0.0588291845554073
+Training Time:  67.60239601135254
+Mean absolute error on test set: 0.09059725185701958
+Mean squared error on test set: 0.012934885180136458
+{'total_time': 596.2376594543457, 'weights': array([0.08888556]), 'bias': array([-0.04643531]), 'total_clients': 5, 'total_weights': array([0.45817301]), 'total_bias': array([-0.23935726]), 'avgtime': 119.24753189086914}
+---------------------------
+
+7 Devices wo mac
+
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.147.51', 51251) has been established.
+RECEIVED DATA:  [0.08608758] -0.032685874245853515
+Training Time:  153.63192558288574
+Connection from ('10.14.146.142', 44080) has been established.
+RECEIVED DATA:  [0.08456191] -0.0246407120382338
+Training Time:  69.91124153137207
+Connection from ('10.14.146.128', 52256) has been established.
+RECEIVED DATA:  [0.09009585] -0.028117574225326427
+Training Time:  164.50071334838867
+Connection from ('10.14.146.73', 40854) has been established.
+RECEIVED DATA:  [0.08770817] -0.025087078782018914
+Training Time:  52.40368843078613
+Connection from ('10.14.146.142', 44082) has been established.
+RECEIVED DATA:  [0.08825544] -0.036752559202090036
+Training Time:  83.73570442199707
+Connection from ('10.14.146.128', 52258) has been established.
+RECEIVED DATA:  [0.08570277] -0.031471521939044574
+Training Time:  133.71038436889648
+Connection from ('10.14.146.73', 40856) has been established.
+RECEIVED DATA:  [0.09834712] -0.03857246979433681
+Training Time:  51.216840744018555
+Mean absolute error on test set: 0.0936052788835791
+Mean squared error on test set: 0.013305379148386004
+{'total_time': 709.1104984283447, 'weights': array([0.08601944]), 'bias': array([-0.03011542]), 'total_clients': 7, 'total_weights': array([0.62075885]), 'total_bias': array([-0.21732779]), 'avgtime': 101.30149977547782}
+---------------------------
+
+
+
+
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.147.51', 51266) has been established.
+RECEIVED DATA:  [0.08608758] -0.032685874245853515
+Training Time:  115.88072776794434
+Connection from ('10.14.147.51', 51267) has been established.
+RECEIVED DATA:  [0.08456191] -0.0246407120382338
+Training Time:  169.2502498626709
+Connection from ('10.14.146.142', 44122) has been established.
+RECEIVED DATA:  [0.09009585] -0.028117574225326427
+Training Time:  71.13361358642578
+Connection from ('10.14.146.73', 40862) has been established.
+RECEIVED DATA:  [0.08770817] -0.025087078782018914
+Training Time:  56.987762451171875
+Connection from ('10.14.146.128', 52266) has been established.
+RECEIVED DATA:  [0.08825544] -0.036752559202090036
+Training Time:  122.47633934020996
+Connection from ('10.14.146.73', 40864) has been established.
+RECEIVED DATA:  [0.08570277] -0.031471521939044574
+Training Time:  49.05200004577637
+Connection from ('10.14.146.142', 44138) has been established.
+RECEIVED DATA:  [0.09834712] -0.03857246979433681
+Training Time:  70.14155387878418
+Mean absolute error on test set: 0.0936052788835791
+Mean squared error on test set: 0.013305379148386004
+{'total_time': 654.9222469329834, 'weights': array([0.08601944]), 'bias': array([-0.03011542]), 'total_clients': 7, 'total_weights': array([0.62075885]), 'total_bias': array([-0.21732779]), 'avgtime': 93.5603209904262}
+---------------------------
+
+7 with 7 m2 macs
+
+
+
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.146.28', 64465) has been established.
+RECEIVED DATA:  [0.08608758] -0.032685874245853515
+Training Time:  20.061969757080078
+Connection from ('10.14.146.28', 64468) has been established.
+RECEIVED DATA:  [0.08456191] -0.0246407120382338
+Training Time:  17.537593841552734
+Connection from ('10.14.146.28', 64470) has been established.
+RECEIVED DATA:  [0.09009585] -0.028117574225326427
+Training Time:  21.673202514648438
+Connection from ('10.14.146.28', 64472) has been established.
+RECEIVED DATA:  [0.08770817] -0.025087078782018914
+Training Time:  17.473936080932617
+Connection from ('10.14.146.28', 64475) has been established.
+RECEIVED DATA:  [0.08825544] -0.036752559202090036
+Training Time:  18.460988998413086
+Connection from ('10.14.146.28', 64479) has been established.
+RECEIVED DATA:  [0.08570277] -0.031471521939044574
+Training Time:  20.858049392700195
+Connection from ('10.14.146.28', 64481) has been established.
+RECEIVED DATA:  [0.09834712] -0.03857246979433681
+Training Time:  34.16800498962402
+Mean absolute error on test set: 0.0936052788835791
+Mean squared error on test set: 0.013305379148386004
+{'total_time': 150.23374557495117, 'weights': array([0.08601944]), 'bias': array([-0.03011542]), 'total_clients': 7, 'total_weights': array([0.62075885]), 'total_bias': array([-0.21732779]), 'avgtime': 21.461963653564453}
+---------------------------
+
+
+
+7 m2 mac air.
+
+Server listening on 0.0.0.0:9999...
+Connection from ('10.14.147.88', 54949) has been established.
+RECEIVED DATA:  [0.08608758] -0.032685874245853515
+Training Time:  26.01790428161621
+Connection from ('10.14.147.88', 54950) has been established.
+RECEIVED DATA:  [0.08456191] -0.0246407120382338
+Training Time:  25.779008865356445
+Connection from ('10.14.147.88', 54951) has been established.
+RECEIVED DATA:  [0.09009585] -0.028117574225326427
+Training Time:  25.849103927612305
+Connection from ('10.14.147.88', 54952) has been established.
+RECEIVED DATA:  [0.08770817] -0.025087078782018914
+Training Time:  25.71702003479004
+Connection from ('10.14.147.88', 54953) has been established.
+RECEIVED DATA:  [0.08825544] -0.036752559202090036
+Training Time:  25.889158248901367
+Connection from ('10.14.147.88', 54954) has been established.
+RECEIVED DATA:  [0.08570277] -0.031471521939044574
+Training Time:  37.8422737121582
+Connection from ('10.14.147.88', 54955) has been established.
+RECEIVED DATA:  [0.09834712] -0.03857246979433681
+Training Time:  25.768280029296875
+Mean absolute error on test set: 0.0936052788835791
+Mean squared error on test set: 0.013305379148386004
+{'total_time': 192.86274909973145, 'weights': array([0.08601944]), 'bias': array([-0.03011542]), 'total_clients': 7, 'total_weights': array([0.62075885]), 'total_bias': array([-0.21732779]), 'avgtime': 27.551821299961635}
+---------------------------
+
+
+
+
+
+6 Devices

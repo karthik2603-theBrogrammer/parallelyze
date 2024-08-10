@@ -1,0 +1,6 @@
+Server listening on 0.0.0.0:9999...
+Connection from ('192.168.0.108', 44888) has been established.
+RECEIVED DATA:  [0.7731166] 0.2379596869373035
+Connection from ('192.168.0.104', 57300) has been established.
+RECEIVED DATA:  [0.399341] -1.9978203982373146
+{'total_time': 84.82217788696289, 'weights': array([0.5862288]), 'bias': array([-0.87993036]), 'total_clients': 2, 'total_weights': array([1.17245761]), 'total_bias': array([-1.75986071])}
